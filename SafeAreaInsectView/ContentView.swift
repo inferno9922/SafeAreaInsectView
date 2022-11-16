@@ -33,6 +33,7 @@ struct ContentView: View {
             }
             .padding()
         }
+        // Add test commit
         .safeAreaInset(edge: .leading) {
             Capsule()
                 .fill(Color.red)
